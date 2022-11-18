@@ -1,0 +1,6 @@
+.DS_Store
+.rspec_status
+*.gem
+/.bundle/
+/.idea
+/coverage/
